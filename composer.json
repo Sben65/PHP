@@ -1,0 +1,11 @@
+{
+    "name": "ben/test2",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\Controllers\\": "App/Controllers",
+            "Core\\": "Core",
+            "App\\": "App"
+        }
+    }
+}
